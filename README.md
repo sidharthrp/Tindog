@@ -1,2 +1,2 @@
 # Tindog
-An HTML and CSS Project - Tinder for Dogs
+An HTML and CSS Project - Tinder for Dogs using Bootstrap
